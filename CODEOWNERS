@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @sandiphonemyint
+/src/backend/database.py      @sandiphonemyint
+/src/backend/routers/auth.py  @sandiphonemyint
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @sandiphonemyint
